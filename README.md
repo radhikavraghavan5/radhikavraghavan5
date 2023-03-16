@@ -8,6 +8,10 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viradhikaa)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhikaa&show_icons=true&count_private=true)  
 
 ## Overview of my Projects
+[Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)
+- Using R programming, Python and Tableau for Analyzing Employee Churn
+
+
 [Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)
 - Heatmap Maker Shiny App to visualize Air Quality stats
 
