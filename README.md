@@ -9,4 +9,6 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhikaa&show_icons=true&count_private=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=viradhikaa)  
+
 ![Profile views](https://gpvc.arturio.dev/viradhikaa)  
