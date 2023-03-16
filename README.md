@@ -9,13 +9,13 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 
 ## Overview of my Projects
 [Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)
-Heatmap Maker Shiny App to visualize Air Quality stats
+- Heatmap Maker Shiny App to visualize Air Quality stats
 
 [LYFT BayWheels Flex Dashboard](https://rpubs.com/viradhika/973668)
-Interactive dashboard using Plotly packages in R
+- Interactive dashboard using Plotly packages in R
 
 [NYC Restaurant Violations Dashboard](https://rvijayaraghavan.shinyapps.io/problem_4_Restaurant_Violations_app/?_ga=2.106304387.1290595451.1678923496-1022704292.1678923496)
-Interactive dashboard of NYC Restaurants characteristics and its violations using R Shiny and dplyr
-[Link to code](https://github.com/viradhikaa/R-Shiny-Dashboards/blob/main/NY_restaurant_violations_app.R
+- Interactive dashboard of NYC Restaurants characteristics and its violations using R Shiny and dplyr
+- [Link to code](https://github.com/viradhikaa/R-Shiny-Dashboards/blob/main/NY_restaurant_violations_app.R
 
 []()
