@@ -9,7 +9,7 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 
 ## Overview of my Projects
 [Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)
-- Using R programming, Python and Tableau for Analyzing Employee Churn
+- Using R programming, Looker Data Studio for Analyzing Employee Churn
 
 
 [Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)
