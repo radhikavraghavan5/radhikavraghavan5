@@ -3,7 +3,7 @@
 
 ### Hi! I'm Radhika Vijayaraghavan, a recent Engineering graduate student from CSU East Bay.
 
-I'm very interested in exploring the intricacies of data, mainly using the R programming language & SQL, I'm also learning Python.
+![image](https://user-images.githubusercontent.com/56044346/228443036-50f747b4-7586-41bd-86a2-a03f4d36d29d.png) I'm very interested in exploring the intricacies of data, mainly using the R programming language & SQL, I'm also learning Python.
 
 Fun Fact: I like taking up and solving virtual business case studies and analyzing data to inform recommendations and insights
 
