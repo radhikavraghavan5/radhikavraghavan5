@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Radhika Vijayaraghavan
+### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/viradhikaa)  
 
-I'm a Master's graduate in Engineering Management with a concentration in Data Science at Cal State East Bay.
+Hi! I'm Radhika Vijayaraghavan, a recent Engineering graduate student from CSU East Bay.
 
 I'm very interested in exploring the intricacies of data, mainly using the R programming language & SQL, I'm also learning Python.
 
