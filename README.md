@@ -1,4 +1,4 @@
-#### Hi there 👋, my name is Radhika Vijayaraghavan
+### Hi there 👋, my name is Radhika Vijayaraghavan
 
 I'm a Master's graduate in Engineering Management with a concentration in Data Science at Cal State East Bay.
 
