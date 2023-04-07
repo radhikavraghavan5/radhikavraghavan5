@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/viradhikaa)  
 
-### ### Hi there 👋 I'm Radhika Vijayaraghavan, a recent Engineering graduate student from CSU East Bay.
+## Hi there 👋 I'm Radhika Vijayaraghavan, a recent Engineering graduate student from CSU East Bay.
 
 I'm very interested in exploring the intricacies of data, mainly using the R programming language & SQL, I'm also learning Python.
 
