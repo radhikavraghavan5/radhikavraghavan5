@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/viradhikaa)  
 
-## Hi there 👋 I'm Radhika Vijayaraghavan, I have a Masters(M.S) degree in Engineering management(Specialization in Data Science) from CSU East Bay.
+### Hi there 👋 I'm Radhika Vijayaraghavan, I have a Masters(M.S) degree in Engineering management(Specialization in Data Science) from CSU East Bay.
 
 I'm very interested in exploring the intricacies of data, mainly using the R programming language & SQL
 
