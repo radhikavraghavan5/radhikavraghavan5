@@ -14,6 +14,9 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 💼 [Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)
 - Using R programming, Looker Data Studio for Analyzing Employee Churn
 
+🚛[Forecasting & Inventory Control for BMW group](https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group)
+- Using Statistical forecasting methods & Inventory control models(POQ, Sensitivity Analysis, Linear Programming model) using SAP QM, MM, MS Excel functions
+
 🍃[Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)
 - Heatmap Maker Shiny App to visualize Air Quality stats
 
@@ -33,6 +36,5 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 📩 [Naive Bayes Classifier for SMS Spam Filtering](https://github.com/viradhikaa/Naive-Bayes-classifier-for-SMS-Spam-Filtering)
 - Using Naive Bayes for classifying messages as Ham or Spam using R libraries
 
-🚛[Forecasting & Inventory Control for BMW group](https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group)
-- Using Statistical forecasting methods & Inventory control models(POQ, Sensitivity Analysis, Linear Programming model) using SAP QM, MM, MS Excel functions
+
 
