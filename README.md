@@ -36,6 +36,6 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 📩 [Naive Bayes Classifier for SMS Spam Filtering](https://github.com/viradhikaa/Naive-Bayes-classifier-for-SMS-Spam-Filtering)
 - Using Naive Bayes for classifying messages as Ham or Spam using R libraries
 
-[Financial & Economic Analysis for ICE, Hybrid vehicles & Electric Vehicles](https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle)
+🏦 [Financial & Economic Analysis for ICE, Hybrid vehicles & Electric Vehicles](https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle)
 - Project involving Financial Analysis & Capital Budgeting methodologies for analysis of mutually exclusive alternatives
 
