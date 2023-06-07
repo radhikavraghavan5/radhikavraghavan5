@@ -17,6 +17,9 @@ Fun Fact: I like taking up and solving virtual business case studies and analyzi
 🚛[Forecasting & Inventory Control for BMW group](https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group)
 - Using Statistical forecasting methods & Inventory control models(POQ, Sensitivity Analysis, Linear Programming model) using SAP QM, MM, MS Excel functions
 
+🛍️ [Retail Superstore Tableau Dashboard](https://public.tableau.com/app/profile/viradhika/viz/RetailSuperstorePerformanceDashboard/Dashboard1)
+- Using Calculated fields, interactivity, bar charts, pie charts, line graphs and treemaps to analyze retail sales data
+
 🍃[Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)
 - Heatmap Maker Shiny App to visualize Air Quality stats
 
