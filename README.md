@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/viradhikaa)  
 
-### Hi there 👋 I'm Radhika Vijayaraghavan, I am a Data enthusiasts and I have a Masters(M.S) degree in Engineering/Industrial management(Specialization in Data Analytics & Supply Chain) from CSU East Bay.
+### Hi there 👋 I'm Radhika Vijayaraghavan, I am a Data enthusiast and I have a Masters(M.S) degree in Engineering/Industrial management(Specialization in Data Analytics & Supply Chain) from CSU East Bay.
 
 I'm very interested in exploring the intricacies of data, mainly using the R programming language & SQL
 
