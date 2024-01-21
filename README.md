@@ -1,5 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/viradhikaa)  
+
 
 ### Hi there!👋 I'm Radhika Vijayaraghavan. I have a Master of Science in Engineering Management with a specialization in Data Science & Supply Chain from California State University, East Bay.
 
