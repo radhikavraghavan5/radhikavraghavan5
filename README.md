@@ -14,9 +14,9 @@ Hi!👋 I'm Radhika. I have a Master of Science(M.S) in Engineering Management f
 
 🍃[Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)<br>- Heatmap Maker Shiny App to visualize Air Quality stats<br><br>
 
-🚖 [LYFT BayWheels Flex Dashboard](https://rpubs.com/viradhika/973668)<br>- Interactive dashboard using Plotly packages in R<br><br>
+🚖 [LYFT BayWheels Flex Dashboard App](https://rpubs.com/viradhika/973668)<br>- Interactive dashboard using Plotly packages in R<br><br>
 
-🍔[NYC Restaurant Violations Dashboard](https://rvijayaraghavan.shinyapps.io/problem_4_Restaurant_Violations_app/?_ga=2.106304387.1290595451.1678923496-1022704292.1678923496)<br>- Interactive dashboard of NYC Restaurants characteristics and its violations using R Shiny and dplyr<br>- [Link to code](https://github.com/viradhikaa/R-Shiny-Dashboards/blob/main/NY_restaurant_violations_app.R)<br><br>
+🍔[NYC Restaurant Violations Dashboard R-Shiny App](https://rvijayaraghavan.shinyapps.io/problem_4_Restaurant_Violations_app/?_ga=2.106304387.1290595451.1678923496-1022704292.1678923496)<br>- Interactive dashboard of NYC Restaurants characteristics and its violations using R Shiny and dplyr<br>- [Link to code](https://github.com/viradhikaa/R-Shiny-Dashboards/blob/main/NY_restaurant_violations_app.R)<br><br>
 
 🛍️ [YELP Dataset - Profiling and Analyzing Trends](https://github.com/radhikavraghavan5/Yelp-Dataset-Analysis-using-SQL/blob/main/Role%20Play%20SQL%20Script%20-%20Yelp%20Data%20Case%20Study.sql)
 <br>- Answers a series of research questions about YELP businesses, reviews and user data) using PostgreSQL<br><br>
