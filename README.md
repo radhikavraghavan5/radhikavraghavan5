@@ -6,7 +6,7 @@ Hi!👋 I'm Radhika. I have a Master of Science(M.S) in Engineering Management f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=radhikavraghavan5&theme=city_light&hide_border=true)
 
 ## <br>💼 Overview of my Projects:<br>
-[Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)<br>- Using R programming, Looker Data Studio for Analyzing Employee Churn<br><br>
+🚖[Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)<br>- Using Data, Machine Learning for Analyzing Employee Churn<br><br>
 
 🚛[Forecasting & Inventory Control for BMW group](https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group)<br>- Using Statistical forecasting methods & Inventory control models(POQ, Sensitivity Analysis, Linear Programming model) using SAP QM, MM, MS Excel functions<br><br>
 
