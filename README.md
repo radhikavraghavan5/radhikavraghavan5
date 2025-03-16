@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hi!👋 I'm Radhika. I have a Master of Science(M.S) in Engineering Management from California State University, East Bay with a specialization in Statistical Data Science. I'm a data enthusiast, passionate about using data to solve problems and improve operational processes. I have experience in a variety of industries, including B2B, B2C, Engineering. I'm very interested in exploring the intricacies of data and storytelling through interactive visualization<br><br>I'm always looking for new challenges and opportunities to learn and grow. If you have any projects that you think I'd be a good fit for, please don't hesitate to reach out!<br>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=radhikavraghavan5&theme=city_light&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=radhikavraghavan5&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=radhikavraghavan5&theme=city_light&hide_border=true)
