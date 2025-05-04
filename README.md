@@ -12,7 +12,7 @@
 [Retail Superstore Tableau Dashboard](https://public.tableau.com/app/profile/viradhika/viz/RetailSuperstorePerformanceDashboard/Dashboard1)<br>- Using Calculated fields, interactivity, bar charts, pie charts, line graphs and treemaps to analyze retail sales data<br><br>
 
 [YELP Dataset - Profiling and Analyzing Trends](https://github.com/radhikavraghavan5/Yelp-Dataset-Analysis-using-SQL/blob/main/Role%20Play%20SQL%20Script%20-%20Yelp%20Data%20Case%20Study.sql)
-<br>- Answers a series of research questions about YELP businesses, reviews and user data) using PostgreSQL<br><br>
+<br>- Answers a series of research questions about YELP businesses, reviews and user data) using SQL<br><br>
 
 [Lending Club Loan Default Prediction](https://github.com/viradhikaa/Lending-Club-Loan-Default-Prediction)<br>- Finding the driver variables for Loans not getting repaid by the borrower, using R tidymodels and ggplotly<br><br> [Naive Bayes Classifier for SMS Spam Filtering](https://github.com/viradhikaa/Naive-Bayes-classifier-for-SMS-Spam-Filtering)<br>- Using Naive Bayes for classifying messages as Ham or Spam using R libraries<br><br> [Financial & Economic Analysis for ICE, Hybrid vehicles & Electric Vehicles](https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle)<br>- Project involving Financial Analysis & Capital Budgeting methodologies for analysis of mutually exclusive alternatives<br><br>
 
