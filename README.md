@@ -3,7 +3,9 @@
 
 [Shiny Cluster Heatmap of Air Quality](https://rvijayaraghavan.shinyapps.io/Problem_01_heatmap/)<br>- Heatmap Maker Shiny App to visualize Air Quality stats<br><br>
 
-[Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)<br>- Using Data, Machine Learning for Analyzing Employee Churn<br><br>
+[Predicting Employee Turnover](https://github.com/viradhikaa/HR-Analytics-Employee-Churn-Prediction)<br>- Analyzing Employee Churn using unsupervised models<br><br>
+
+[Titanic Machine learning from disaster](https://github.com/radhikavraghavan5/Titanic-Machine-Learning-from-Disaster)<br>- Kaggle Titanic survival prediction competition<br><br>
 
 [NYC Restaurant Violations Dashboard R-Shiny App](https://rvijayaraghavan.shinyapps.io/problem_4_Restaurant_Violations_app/?_ga=2.106304387.1290595451.1678923496-1022704292.1678923496)<br>- Interactive dashboard of NYC Restaurants characteristics and its violations using R Shiny and dplyr<br>- [Link to code](https://github.com/viradhikaa/R-Shiny-Dashboards/blob/main/NY_restaurant_violations_app.R)<br><br>
 
