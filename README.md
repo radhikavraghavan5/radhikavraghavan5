@@ -16,7 +16,7 @@
 
 [Lending Club Loan Default Prediction](https://github.com/viradhikaa/Lending-Club-Loan-Default-Prediction)<br>- Finding the driver variables for Loans not getting repaid by the borrower, using R tidymodels and ggplotly<br><br> [Naive Bayes Classifier for SMS Spam Filtering](https://github.com/viradhikaa/Naive-Bayes-classifier-for-SMS-Spam-Filtering)<br>- Using Naive Bayes for classifying messages as Ham or Spam using R libraries<br><br> [Financial & Economic Analysis for ICE, Hybrid vehicles & Electric Vehicles](https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle)<br>- Project involving Financial Analysis & Capital Budgeting methodologies for analysis of mutually exclusive alternatives<br><br>
 
-[Forecasting & Inventory Control for BMW group](https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group)<br>- Using Statistical forecasting methods & Inventory control models(POQ, Sensitivity Analysis, Linear Programming model) using SAP QM, MM, MS Excel functions<br><br>
+[Forecasting & Inventory Control for BMW group](https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group)<br>- Using Statistical forecasting methods & Inventory control models(POQ, Sensitivity Analysis, Linear Programming model)<br><br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=radhikavraghavan5&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
